@@ -43,7 +43,6 @@ class Net_Ninga extends StatelessWidget {
             margin: EdgeInsets.only(top: 20),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.end,
               children: [
                 CircleAvatar(
                   radius: 66,
